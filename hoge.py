@@ -13,3 +13,5 @@ print("hedhjhfhgld")
 print("helshuufud")
 print("aaaa")あふｄさｈｄｊｊ
 print("ありがとう")
+
+print("test")
