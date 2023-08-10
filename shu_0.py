@@ -1,0 +1,1 @@
+print ("Hello, shu_0!")
